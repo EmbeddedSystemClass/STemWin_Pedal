@@ -47,20 +47,22 @@
 
 #include "DIALOG.h"
 extern  WM_HWIN CreateFramewin(void);
-  
+extern WM_HWIN CreateDelayWnd(void);
+extern WM_HWIN CreateTremoloWnd(void);
 
 void GRAPHICS_MainTask(void) {
 
   /* 2- Create a Window using GUIBuilder */
 	CreateFramewin();
+//	CreateTremoloWnd();
  
 /* USER CODE BEGIN GRAPHICS_MainTask */
  /* User can implement his graphic application here */
   /* Hello Word example */
-	GUI_Clear();
-	GUI_SetColor(GUI_WHITE);
-	GUI_SetFont(&GUI_Font32_1);
-	GUI_DispStringAt("Hello world!", (LCD_GetXSize()-150)/2, (LCD_GetYSize()-20)/2);
+//	GUI_Clear();
+//	GUI_SetColor(GUI_WHITE);
+//	GUI_SetFont(&GUI_Font32_1);
+//	GUI_DispStringAt("Hello world!", (LCD_GetXSize()-150)/2, (LCD_GetYSize()-20)/2);
 /* USER CODE END GRAPHICS_MainTask */
   while(1)
 {
