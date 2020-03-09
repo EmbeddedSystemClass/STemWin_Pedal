@@ -1,0 +1,21 @@
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <title></title>
+ <defs>
+  <linearGradient y2="0" x2="1" y1="0" x1="0" id="svg_6">
+   <stop offset="0" stop-color="#bfbfbf"/>
+   <stop offset="1" stop-color="#404040"/>
+  </linearGradient>
+  <linearGradient spreadMethod="pad" y2="1" x2="1" y1="0" x1="0" id="svg_1">
+   <stop offset="0.10156" stop-opacity="0.99609" stop-color="#ffffff"/>
+   <stop offset="1" stop-color="#7f0000"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <circle transform="rotate(90 155.50000000000003,75.00000000000001) " fill-opacity="0.77" id="svg_3" r="31.125" cy="75" cx="155.5" stroke-linecap="round" stroke-width="17.5" fill="url(#svg_6)"/>
+  <circle id="svg_7" r="26" cy="74.99904" cx="155.75284" fill-opacity="0.64" stroke-linecap="round" stroke-width="17.5" fill="url(#svg_6)"/>
+  <circle id="svg_8" r="23" cy="75.0017" cx="155.50054" stroke-linecap="round" stroke-width="17.5" fill="#7f0000"/>
+  <ellipse transform="rotate(-45.252899169921875 143.3171234130859,66.44286346435545) " id="svg_20" ry="4.01281" rx="7.74287" cy="66.44286" cx="143.31713" stroke-linecap="round" stroke-width="17.5" fill="url(#svg_1)"/>
+ </g>
+</svg>
