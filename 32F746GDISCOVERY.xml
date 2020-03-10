@@ -13,7 +13,7 @@
   <board id="32f746gdiscovery">
     <name>32F746GDISCOVERY</name>
     <dbgIF>SWD</dbgIF>
-    <dbgDEV>ST-Link</dbgDEV>
+    <dbgIF>JTAG</dbgIF>
     <mcuId>stm32f746nghx</mcuId>
   </board>
 </targetDefinitions>
