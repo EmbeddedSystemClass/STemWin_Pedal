@@ -56,9 +56,9 @@ WM_HWIN CreateTestWindow(void);
 void GRAPHICS_MainTask(void) {
 
 	/* 2- Create a Window using GUIBuilder */
-//	CreateTestWindow();
+	CreateTestWindow();
 //	CreateTremoloWnd();
-	MainTask();
+//	MainTask();
 
 	/* USER CODE BEGIN GRAPHICS_MainTask */
 	/* User can implement his graphic application here */
